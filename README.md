@@ -16,7 +16,7 @@
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot pm" src="./screens/screen-home.png">  Home |  <img width="1604" alt="screen shot pm" src="./screens/screen-home-register.png"> Cadastro |
-|<img width="1604" alt="screen shot pm" src="./screens/screen-home-update.png"> Home Light|<img width="1604" alt="screen shot pm" src="./screens/screen-home-add-phone.png"> Alteração |
+|<img width="1604" alt="screen shot pm" src="./screens/screen-home-update.png"> Alteração|<img width="1604" alt="screen shot pm" src="./screens/screen-home-add-phone.png"> Adicionar telefone |
 
 ## Screens web mobile
 | | | |
