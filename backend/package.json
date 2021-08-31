@@ -1,0 +1,28 @@
+{
+  "name": "sportsx",
+  "version": "1.0.0",
+  "description": "loja de artigos esportivos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node js",
+    "crud",
+    "sql",
+    "server",
+    "mssql",
+    "express",
+    "sequelize",
+    "rest",
+    "api"
+  ],
+  "author": "Nailson Melo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "tedious": "^12.0.0"
+  }
+}
